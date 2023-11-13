@@ -2,14 +2,11 @@
 
 # Project Overview
 
-[Project Overview][1]
-
-[1]:
+Found Here : https://github.com/Rishikesh38/Aesd_Final_Project/wiki/Project-Overview
 
 # Project Schedule
 
-[Project Schedule][2]
+Found Here : https://github.com/users/Rishikesh38/projects/2/views/1
 
-[2]:
 
 
