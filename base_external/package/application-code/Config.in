@@ -1,0 +1,5 @@
+config BR2_PACKAGE_APPLICATION_CODE
+	bool "application-code"
+	help
+	  Includes the server with camera drivers and client application in the kernel image.
+	  Used to understand buildroot external trees and package builds.
